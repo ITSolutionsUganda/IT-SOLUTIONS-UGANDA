@@ -1,0 +1,20 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sensitive data
+*.key
+*.pem
+credentials/
+secrets/
+
+# Temporary files
+*.tmp
+*.log
+node_modules/
